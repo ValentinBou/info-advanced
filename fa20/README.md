@@ -8,6 +8,17 @@ libGDX — jeu de cartes _complots_ / daleks / sokoban
 - [Benjamin Lecha (@BenjaminLECHA)](https://github.com/BenjaminLECHA)
 - [Florent Legru (@Adralith1)](https://github.com/Adralith1)
 
+## JVMD (Je Veux Mon Diplôme)
+
+Nous développerons un jeu de plateforme du style Mario à l'aide de la librairie LibGDX.  
+[Dépôt Github](https://github.com/SamuelLht/PRJ_JAVA_IMT)  
+
+L'équipe est constituée de 4 personnes:  
+- [BENBELLA El Yazid (@yaziid)](https://github.com/yaziid) - Chef de projet
+- [CAILLIER Thomas (@thomascaillier)](https://github.com/thomascaillier)
+- [LHOTE Samuel (@SamuelLht)](https://github.com/SamuelLht)
+- [BELHADJ Jawad (@dawaj71)](https://github.com/dawaj71)
+
 ## Kangourou
 
 Sujet : En nous inspirant du jeu _Thomas was alone_, nous allons réaliser un jeu de plateforme de 2 à 4 niveaux.
