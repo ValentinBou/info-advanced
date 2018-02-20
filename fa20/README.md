@@ -25,6 +25,8 @@ Sujet : En nous inspirant du jeu _Thomas was alone_, nous allons réaliser un je
 
 Choix technique : Slick2d / Maven.
 
+[Dépot Github](https://github.com/pasterp/kangourou)
+
 - [Gildas Peneau (waista)](https://github.com/waista)
 - [William Jedrzejak (TheWardow)](https://github.com/TheWardow)
 - [Pascal Phélipot (pasterp)](https://github.com/pasterp)
