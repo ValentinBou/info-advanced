@@ -29,3 +29,10 @@ Choix technique : Slick2d / Maven.
 - [William Jedrzejak (TheWardow)](https://github.com/TheWardow)
 - [Pascal Phélipot (pasterp)](https://github.com/pasterp)
 - [Louis Lalleau (L0u15)](https://github.com/L0u15)
+
+## Pacxon
+
+libGDX - Jeu 2d mélange de PacMan et casse brique
+
+- [Mavel Dussartre (Maveldu)](https://github.com/Maveldu)
+- [Valentin Bourdon (ValentinBou)](https://github.com/ValentinBou)
