@@ -42,3 +42,10 @@ Sujet: Développement d'un jeu de plateforme avec LibGDX.
 - [DECANTER Maxence (@MaxenceDecanter)](https://github.com/MaxenceDecanter)
 - [DESMET Henri (@HenriDesmet)](https://github.com/HenriDesmet)
 
+# PacXon
+
+LibGDX / jeu 2d type Pac-Man & Casse-briques
+
+[Mavel Dussartre(Maveldu)](https://github.com/Maveldu)
+[Valentin Bourdon(ValenitnBou)](https://github.com/ValentinBou)
+
