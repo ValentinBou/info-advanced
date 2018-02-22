@@ -31,3 +31,14 @@ Choix technique : Slick2d / Maven.
 - [William Jedrzejak (TheWardow)](https://github.com/TheWardow)
 - [Pascal Phélipot (pasterp)](https://github.com/pasterp)
 - [Louis Lalleau (L0u15)](https://github.com/L0u15)
+
+## 404NotFound
+
+Sujet: Développement d'un jeu de plateforme avec LibGDX.
+[Dépôt Github](https://github.com/Saga-Chan/404NotFound.git)
+
+-[CHEVALIER Maxime (@MaximChv03)](https://github.com/MaximChv03)
+-[CRAMPON Louise (@Saga-Chan)](https://github.com/Saga-Chan)
+-[DECANTER Maxence (@MaxenceDecanter)](https://github.com/MaxenceDecanter)
+-[DESMET Henri (@HenriDesmet)](https://github.com/HenriDesmet)
+
