@@ -49,3 +49,15 @@ LibGDX / jeu 2d type Pac-Man & Casse-briques
 - [Mavel Dussartre (@Maveldu)](https://github.com/Maveldu)
 - [Valentin Bourdon (@ValenitnBou)](https://github.com/ValentinBou)
 
+
+## Projet Pharo
+
+Sujet : ?
+
+[Dépot Github]
+
+- [Margot Plouvin (@Margot-plouvin)](https://github.com/Margot-plouvin)
+- [Franck Hourdin (@Bakhah)](https://github.com/Bakhah)
+- [Adrien Brisset (@Brisseta)](https://github.com/Brisseta)
+- [Giacomo Falzone (@giac-imt)](https://github.com/giac-imt)
+
