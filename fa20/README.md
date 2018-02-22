@@ -46,6 +46,6 @@ Sujet: Développement d'un jeu de plateforme avec LibGDX.
 
 LibGDX / jeu 2d type Pac-Man & Casse-briques
 
-[Mavel Dussartre(Maveldu)](https://github.com/Maveldu)
-[Valentin Bourdon(ValenitnBou)](https://github.com/ValentinBou)
+- [Mavel Dussartre (@Maveldu)](https://github.com/Maveldu)
+- [Valentin Bourdon (@ValenitnBou)](https://github.com/ValentinBou)
 
