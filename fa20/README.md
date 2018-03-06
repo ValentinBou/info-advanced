@@ -1,6 +1,6 @@
 # Promotion FA20 (février-mars 2018)
 
-## Tractopelles
+## Tractopelles (mardi)
 
 libGDX — jeu de cartes _complots_ / daleks / sokoban
 
@@ -8,7 +8,7 @@ libGDX — jeu de cartes _complots_ / daleks / sokoban
 - [Benjamin Lecha (@BenjaminLECHA)](https://github.com/BenjaminLECHA)
 - [Florent Legru (@Adralith1)](https://github.com/Adralith1)
 
-## JVMD (Je Veux Mon Diplôme)
+## JVMD (Je Veux Mon Diplôme) (mardi)
 
 Nous développerons un jeu de plateforme du style Mario à l'aide de la librairie LibGDX.  
 [Dépôt Github](https://github.com/SamuelLht/PRJ_JAVA_IMT)  
@@ -19,7 +19,7 @@ L'équipe est constituée de 4 personnes:
 - [LHOTE Samuel (@SamuelLht)](https://github.com/SamuelLht)
 - [BELHADJ Jawad (@dawaj71)](https://github.com/dawaj71)
 
-## Kangourou
+## Kangourou (mardi)
 
 Sujet : En nous inspirant du jeu _Thomas was alone_, nous allons réaliser un jeu de plateforme de 2 à 4 niveaux.
 
@@ -32,7 +32,7 @@ Choix technique : Slick2d / Maven.
 - [Pascal Phélipot (@pasterp)](https://github.com/pasterp)
 - [Louis Lalleau (@L0u15)](https://github.com/L0u15)
 
-## 404NotFound
+## 404NotFound (jeudi)
 
 Sujet: Développement d'un jeu de plateforme avec LibGDX.
 [Dépôt Github](https://github.com/Saga-Chan/404NotFound.git)
@@ -42,7 +42,7 @@ Sujet: Développement d'un jeu de plateforme avec LibGDX.
 - [DECANTER Maxence (@MaxenceDecanter)](https://github.com/MaxenceDecanter)
 - [DESMET Henri (@HenriDesmet)](https://github.com/HenriDesmet)
 
-# PacXon
+# PacXon (jeudi)
 
 LibGDX / jeu 2d type Pac-Man & Casse-briques
 
@@ -50,7 +50,7 @@ LibGDX / jeu 2d type Pac-Man & Casse-briques
 - [Valentin Bourdon (@ValenitnBou)](https://github.com/ValentinBou)
 
 
-## Projet Pharo
+## Projet Pharo  (jeudi)
 
 Sujet : ?
 
