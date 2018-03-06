@@ -2,7 +2,7 @@
 
 ## Tractopelles (mardi)
 
-libGDX — jeu de cartes _complots_ / daleks / sokoban
+libGDX — Minecraft2D
 
 - [Benjamin Schmitt (@BenjaminSchmitt)](https://github.com/BenjaminSchmitt)
 - [Benjamin Lecha (@BenjaminLECHA)](https://github.com/BenjaminLECHA)
