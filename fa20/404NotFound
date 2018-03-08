@@ -1,0 +1,15 @@
+404NotFound: Plateformer Rage Game (08/03/2018)
+
+Scénario: Eviter les pièges et obstacles pour arriver à la fin du niveau.
+
+Objectif: avoir un niveau fonctionnel avec le personnage qui se déplace et différents obstacles 
+          qui utilisent des mécanismes variés.
+          
+Gestion: méthode Agile
+          
+Tâches principales: - le personnage se déplace (en cours)
+                    - implémentation du saut (en cours)
+                    - déplacement d'un obstacle (en cours)
+                    - apparition d'obstacle
+                    - disparition d'un morceau de plateforme
+                    - gestion des collisions
