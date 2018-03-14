@@ -52,9 +52,9 @@ LibGDX / jeu 2d type Pac-Man & Casse-briques
 
 ## Projet Pharo  (jeudi)
 
-Sujet : ?
+Sujet : Pharo / Générateur de Sudoku 
 
-[Dépot Github]
+[Dépot Github](https://github.com/giac-imt/Sudoku)
 
 - [Margot Plouvin (@Margot-plouvin)](https://github.com/Margot-plouvin)
 - [Franck Hourdin (@Bakhah)](https://github.com/Bakhah)
